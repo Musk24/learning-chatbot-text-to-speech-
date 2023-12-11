@@ -4,8 +4,7 @@ from lxml import html
 from googlesearch import search
 from bs4 import BeautifulSoup
 
-# to search
-# print(chatbot_query('how old is samuel l jackson'))
+
 
 def chatbot_query(query, index=0):
     fallback = 'Sorry, I cannot think of a reply for that.'
