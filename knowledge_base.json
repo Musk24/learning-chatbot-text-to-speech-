@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hey!"
+    },
+    {
+      "question": "I'm Muskaan",
+      "answer": "Nice to meet you!"
+    },
+    {
+      "question": "I'm hungry",
+      "answer": "I could recommend the latest restaurants nearby for you!"
+    },
+    {
+      "question": "whats your name?",
+      "answer": "My name is ruru Bot! What's yours?"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "hey",
+      "answer": "Hello!"
+    },
+    {
+      "question": "how are you",
+      "answer": "All my codes are functioning well! How are you?"
+    }
+  ]
+}
